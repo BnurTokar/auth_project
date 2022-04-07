@@ -31,3 +31,4 @@ jobs:
           heroku_app_name: "beyzanur-auth-dev" #Must be unique in Heroku
           heroku_email: "bt268@njit.edu"
           usedocker: true
+
